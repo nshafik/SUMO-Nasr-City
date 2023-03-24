@@ -1,0 +1,250 @@
+{
+
+    "inhabitants": "100000",
+    "households": "50000",
+    "childrenAgeLimit": "17",
+    "retirementAgeLimit": "60",
+    "carRate": "0.58",
+    "unemploymentRate":"0.086",
+    "footDistanceLimit":"250",
+    "incomingTraffic":"5000",
+    "outgoingTraffic":"2500",
+    "laborDemand":"1.5",
+
+    "defualt_population": "1",
+    "defualt_work_pos" : "1",
+
+    "carPreference":"0.8",
+    "meanTimePerKmInCity":"2.5", 
+    "freeTimeActivityRate":"0.01",
+    "uniformRandomTraffic":"0.05",
+    "departureVariation":"3600",
+
+
+    "school_defualt_pos": "20",
+    "school_defualt_beginAge": "6",
+    "school_defualt_endAge": "18",
+    "school_defualt_capacity": "390",
+    "school_defualt_opening": "37900",
+    "school_defualt_closing": "48000",
+
+
+    "population": [
+    
+    {
+        "beginAge":"0",
+        "endAge":"17",
+        "peopleNbr":"15"
+    },
+    
+    {
+        "beginAge":"18",
+        "endAge":"64",
+        "peopleNbr":"67"
+    },
+    {
+        "beginAge":"65",
+        "endAge":"90",
+        "peopleNbr":"18"
+    }
+    ],
+
+    "opening": [
+    {
+        "hour":"31600",
+        "proportion":"0.30"
+    },
+    
+    {
+        "hour":"32401",
+        "proportion":"0.40"
+    },
+        {
+        "hour":"36001",
+        "proportion":"0.15"
+    },        {
+        "hour":"39601",
+        "proportion":"0.15"
+    }
+
+
+
+    ],
+
+    "closing": [
+        {
+            "hour":"43201",
+            "proportion":"0.20"
+        },
+        {
+            "hour":"63001",
+            "proportion":"0.20"
+        },
+        
+        {
+            "hour":"68600",
+            "proportion":"0.15"
+        },
+        {
+            "hour":"70000",
+            "proportion":"0.1"
+        },
+        
+        {
+            "hour":"73000",
+            "proportion":"0.5"
+        },{
+            "hour":"64801",
+            "proportion":"0.30"
+        }
+        ],
+
+    "gates":[   
+
+        {
+            "edge":"52244427#14",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },        
+
+        {
+            "edge":"850971995",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"885610137",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"883292350#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"28664899",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"26520591#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"890774197#2",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"700084841#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"206000690#3",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"819202036",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"939250979#1",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"939250978#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"940974903#2",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"699651625#1",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"699651628#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"940974901#1",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+
+        {
+            "edge":"28495635#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        },
+        {
+            "edge":"24958252#0",
+            "pos":"1",
+            "incoming":"0.5",
+            "outgoing":"0.5"
+
+        }   
+
+    ]
+    
+
+}
